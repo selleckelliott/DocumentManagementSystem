@@ -1,0 +1,14 @@
+C:\Users\selliott\source\repos\DocumentManagementSystem\DocumentManagementSystem\bin\Debug\net8.0\DocumentManagementSystem.exe
+C:\Users\selliott\source\repos\DocumentManagementSystem\DocumentManagementSystem\bin\Debug\net8.0\DocumentManagementSystem.deps.json
+C:\Users\selliott\source\repos\DocumentManagementSystem\DocumentManagementSystem\bin\Debug\net8.0\DocumentManagementSystem.runtimeconfig.json
+C:\Users\selliott\source\repos\DocumentManagementSystem\DocumentManagementSystem\bin\Debug\net8.0\DocumentManagementSystem.dll
+C:\Users\selliott\source\repos\DocumentManagementSystem\DocumentManagementSystem\bin\Debug\net8.0\DocumentManagementSystem.pdb
+C:\Users\selliott\source\repos\DocumentManagementSystem\DocumentManagementSystem\obj\Debug\net8.0\DocumentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selliott\source\repos\DocumentManagementSystem\DocumentManagementSystem\obj\Debug\net8.0\DocumentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\selliott\source\repos\DocumentManagementSystem\DocumentManagementSystem\obj\Debug\net8.0\DocumentManagementSystem.AssemblyInfo.cs
+C:\Users\selliott\source\repos\DocumentManagementSystem\DocumentManagementSystem\obj\Debug\net8.0\DocumentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\selliott\source\repos\DocumentManagementSystem\DocumentManagementSystem\obj\Debug\net8.0\DocumentManagementSystem.dll
+C:\Users\selliott\source\repos\DocumentManagementSystem\DocumentManagementSystem\obj\Debug\net8.0\refint\DocumentManagementSystem.dll
+C:\Users\selliott\source\repos\DocumentManagementSystem\DocumentManagementSystem\obj\Debug\net8.0\DocumentManagementSystem.pdb
+C:\Users\selliott\source\repos\DocumentManagementSystem\DocumentManagementSystem\obj\Debug\net8.0\DocumentManagementSystem.genruntimeconfig.cache
+C:\Users\selliott\source\repos\DocumentManagementSystem\DocumentManagementSystem\obj\Debug\net8.0\ref\DocumentManagementSystem.dll
